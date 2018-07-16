@@ -34,7 +34,7 @@ aside {
 
 .main-box {
   width: 480px;
-  height: 150px;
+  height: 250px;
   margin: 0 auto;
 }
 
@@ -43,5 +43,26 @@ main{
   height: 125px;
   
 }
+
+.article-box {
+  width: 480px;
+  height: 500px;
+  margin: 0 auto;
+}
+
+article {
+  width: 240px;
+  height: 250px;
+  float:left;
+  
+}
+
+footer {
+  width: 480px;
+  height: 80px;
+  margin: 0 auto;
+}
+
+
 
 
