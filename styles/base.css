@@ -1,0 +1,47 @@
+
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+* {
+  outline-color: red;
+  outline-style: dotted;
+  outline-width: 3px;
+}
+
+body {
+  font-family: sans-serif;
+  font-size: 20px;
+  background-color: whitesmoke;
+  width:100%;
+  
+}
+ 
+header {
+  width:  480px;
+  height: 175px;
+  margin: 0 auto;
+}
+
+aside {
+  width: 480px;
+  height: 150px;
+  margin: 0 auto;
+}
+
+.main-box {
+  width: 480px;
+  height: 150px;
+  margin: 0 auto;
+}
+
+main{
+  width: 480px;
+  height: 125px;
+  
+}
+
+
