@@ -1,0 +1,85 @@
+
+
+/* .clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+} */
+
+/* * {
+  outline-color: red;
+  outline-style: dotted;
+  outline-width: 3px;
+} */
+
+body {
+  font-family: sans-serif;
+  font-size: 32px;
+  background-color: whitesmoke;
+  width:100%;
+}
+
+/* .header-box {
+  width:  480px;
+  height: 175px;
+  margin: 0 auto;
+} */
+
+header {
+  width:  480px;
+  height: 175px;
+  box-sizing: border-box;
+  border: 2px solid #222222;
+  
+  margin: 0 auto;
+
+}
+
+aside {
+  width: 480px;
+  height: 150px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  border: 2px solid #222222;
+}
+
+.main-box {
+  width: 480px;
+  height: 250px;
+  margin: 0 auto;
+}
+
+main{
+  width: 480px;
+  height: 125px;
+  box-sizing: border-box;
+  border: 2px solid #222222;
+  
+}
+
+.article-box {
+  width: 480px;
+  height: 500px;
+  margin: 0 auto;
+}
+
+article {
+  width: 240px;
+  height: 250px;
+  float:left;
+  box-sizing: border-box;
+  border: 2px solid #222222;
+  
+}
+
+footer {
+  width: 480px;
+  height: 80px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  border: 2px solid #222222;
+}
+
+
+
+
